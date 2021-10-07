@@ -25,6 +25,5 @@ body:
       label: 不備や問題点
       description: 具体的な不備や問題点を記述してください。
       placeholder: Tell us what you see!
-      value: ""
     validations:
       required: true
